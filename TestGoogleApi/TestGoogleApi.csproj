@@ -84,6 +84,7 @@
   <ItemGroup>
     <Content Include="GoogleStorage\client_secret.json" />
     <Content Include="packages.config" />
+    <Content Include="GoogleStorage\Google.Apis.Auth.OAuth2.Responses.TokenResponse-sample_user_id" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
